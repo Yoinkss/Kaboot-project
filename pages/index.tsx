@@ -121,7 +121,8 @@ const sendForm3 = (form3) => {
         {!chosenUsername ? (
           <>
           <div className="w-md">
-            <h1 className="text-8xl text-left float-left">Velkommen til </h1><h1 className="text-8xl text-rose-500 text-right float-right pl-4">Kaboot!</h1></div>
+            <h1 className="text-xl lg:text-8xl text-left float-left">Velkommen til <span className="text-rose-500">Kaboot!</span></h1>
+            </div>
             <h3 className="font-bold text-white text-xl">
               Hva er ditt navn?
             </h3>
