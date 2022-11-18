@@ -1,0 +1,8 @@
+.li {
+    padding-right: 50px;
+    padding-bottom: 15px;
+    display: inline-block;
+    background-color: beige;
+    max-width: 50px;
+    font-size: large;
+}
