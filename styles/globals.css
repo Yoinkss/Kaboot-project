@@ -27,6 +27,6 @@ a {
   }
   body {
     color: white;
-    background: rgb(200, 200, 198);
+    @apply bg-purple-500
   }
 }  
