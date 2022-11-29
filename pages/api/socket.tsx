@@ -1,6 +1,6 @@
 import { Server } from "socket.io";
 import { createServer } from "http";
-import messageHandler from "/Users/supergjest/Desktop/prosjekt/stor_prosjekt/pages/api/messageHandler";
+
 
 export default function SocketHandler(req, res) {
   // It means that socket server was already initialised
