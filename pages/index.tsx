@@ -165,7 +165,7 @@ const sendForm3 = (form3) => {
             <>
             <div className="mb-6 justify-center">
             <div>
-          <label htmlFor="base-input" className="block mb-2 text-sm font-medium text-white text-8xl">Spørsmål: Hvor mye bruker du på klær pr mnd i KR</label> 
+          <label htmlFor="base-input" className="block mb-2 text-sm font-medium text-white text-2xl">Spørsmål: Hvor mye bruker du på klær pr mnd i KR</label> 
           </div>
         
           <div>
@@ -179,7 +179,7 @@ const sendForm3 = (form3) => {
             </div>
             <div className="pt-6">
 
-          <label htmlFor="base-input" className="block mb-2 text-sm font-medium text-white text-8xl">Spørsmål: Hvor mye bruker du på lunsj pr mnd i KR</label> 
+          <label htmlFor="base-input" className="block mb-2 text-sm font-medium text-white text-2xl">Spørsmål: Hvor mye bruker du på lunsj pr mnd i KR</label> 
           </div>
           <div>
 
@@ -198,7 +198,7 @@ const sendForm3 = (form3) => {
             </div>
 
             <div>
-          <label htmlFor="base-input" className="block mb-2 text-sm font-medium text-white text-8xl">Spørsmål: Hvor mye bruker du på drikke pr mnd i KR</label> 
+          <label htmlFor="base-input" className="block mb-2 text-sm font-medium text-white text-2xl">Spørsmål: Hvor mye bruker du på drikke pr mnd i KR</label> 
           </div>
           <div>
             <input type="number" 
